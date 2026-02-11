@@ -1,0 +1,3 @@
+# Python learning environment
+# No extra packages needed to start — we use only the standard library.
+# Add packages here later when you learn about pip (e.g. requests, pygame).
